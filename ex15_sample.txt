@@ -1,0 +1,9 @@
+This is stuff I typed into a file.
+It is really cool stuff.
+Lots and lots of fun to have in here.
+
+"""
+Isso é o que eu digitei em um arquivo.
+É uma coisa muito legal.
+Muita diversão aqui.
+"""
